@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DeviceActivity" >
+    <Button
+        android:id="@+id/bekken"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bekken" />
+    
+    <Button
+        android:id="@+id/ambicious"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ambitious" />
+
+    <Button
+        android:id="@+id/katsu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/katsu" />    
+        
+    <Button
+        android:id="@+id/kita"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kita" />
+
+    <Button
+        android:id="@+id/miteiruka"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/miteiruka" />
+
+    <Button
+        android:id="@+id/madahayai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/madahayai" />    
+        
+    <Button
+        android:id="@+id/riyuhaaru"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/riyuhaaru" />
+
+    <Button
+        android:id="@+id/sumimasen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/sumimasen" />
+
+    <Button
+        android:id="@+id/yabaiyabai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/yabaiyabai" />
+
+    <Button
+        android:id="@+id/kiminoshiranaimonogatari"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/kiminoshiranaimonogatari" />
+    
+    <Button
+        android:id="@+id/SecretBase"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SecretBase" />
+
+    <Button
+        android:id="@+id/HackingToTheGate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/HackingToTheGate" />    
+    
+</LinearLayout>

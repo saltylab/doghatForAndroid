@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BLERW</string>
+    <string name="ble_not_supported">BLE not supported on this device</string>
+    <string name="bt_unavailable">Bluetooth unavailable</string>
+    <!-- Scan -->
+    <string name="action_scan">SCAN</string>
+    <string name="action_stop">STOP</string>
+    <!-- Device -->
+    <string name="bekken">別件など無い</string>
+    <string name="ambitious">アンビシャス</string>
+    <string name="katsu">かーつ!</string>
+    <string name="kita">キター!</string>
+    <string name="miteiruka">見ているか</string>
+    <string name="madahayai">まだ早い</string>
+    <string name="riyuhaaru">理由はある</string>
+    <string name="sumimasen">すみません</string>
+    <string name="yabaiyabai">やばいやばい</string>
+    <string name="kiminoshiranaimonogatari">君の知らない物語</string>
+    <string name="SecretBase">Secret base</string>
+    <string name="HackingToTheGate">Hacking to the Gate</string>
+</resources>
